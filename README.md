@@ -8,7 +8,7 @@ This Jupyter notebook contains the practical implementation of the analyses desc
 - Code for performing EDA to understand the impact of discounts on customer lifetime.
 - Transformations to linearize the relationship between discount rates and lifetime increases for more accurate modeling.
 - Regression models built for each customer tier (High, Mid, Low) to forecast the effects of discounts.
-- A linear optimization model that calculates the most revenue-efficient way to allocate discounts across different customer segments.
+- A linear optimization model using Gurobi that calculates the most revenue-efficient way to allocate discounts across different customer segments.
 - Display of final solutions and quantitative analysis comparing scenarios with and without optimization.
 
 - ## [BAN5763_OptimizationExercise_SFRRAnalytics.pdf](./BAN5763_OptimizationExercise_SFRRAnalytics.pdf)
